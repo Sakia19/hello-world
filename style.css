@@ -2,18 +2,47 @@ li{
     background-color: red;
 }
 h1{
-    background-color: blue
+    background-color: blue;
 }
 p{ 
-    text-decoration: underline
+    text-decoration: underline;
 }
 h2{
-    font-style: oblique
+    font-style: oblique;
+    text-transform: capitalize
 }
 h1{
     color: pink;
 }
 h2{
-    color: cyan
+    color: cyan;
 }
+    nav{
+        text-transform: uppercase;
+    }
+    nav:hover {
+        background-color: yellow; 
+        font-family: "PT san"
+        font-family: monospace;
+    }
+    h1:hover {
+       background-color: yellow;
+    }
+    button:hover {
+        font-size: larger
+    }
     
+        
+        
+    }
+        
+    
+}
+header{
+    height: 600px
+    width:100%;
+    background-image: url(
+    background-size: cover
+    text-aling: center;
+    
+}
